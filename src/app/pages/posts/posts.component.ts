@@ -21,5 +21,12 @@ export class PostsComponent implements OnInit {
       // });
 
   }
+  
+  escucharClick( id: number ) {
+   console.log( "Clieck en: ", id);
+   
+  }
 
 }
+
+

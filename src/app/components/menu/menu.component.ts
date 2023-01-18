@@ -10,6 +10,7 @@ export class MenuComponent implements OnInit{
   rutas = [
     {path: 'home', name: 'Home'},
     {path: 'about', name: 'About'},
+    {path: 'posts', name: 'Posts'},
     {path: 'contact', name: 'Contact'}
   ]
 
